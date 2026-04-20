@@ -3,7 +3,7 @@
 A cinematic, full-screen interactive sales deck built for Mall of America's commercial team. Designed in the Digideck format — slide-by-slide presentation, not a scrolling website.
 
 ## Live Demo
-Deployed on Vercel: [your-vercel-url.vercel.app]
+Deployed on Vercel: https://moa-deck-gamma.vercel.app/
 
 ## Features
 - 16 full-screen presentation slides
